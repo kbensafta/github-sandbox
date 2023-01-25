@@ -1,1 +1,0 @@
-print('When going gets tough, though get going')
