@@ -1,5 +1,5 @@
-print('Do')
+print('Riri')
 
-print('Get going, target the core')
+print('Fifi')
 
-print('courage')
+print('Loulou')
